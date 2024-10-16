@@ -1,0 +1,38 @@
+.cormenu{
+    background-color: aquamarine;
+}
+
+.tamanhocar{
+    width: 80%;
+    margin-top: 1%;
+}
+section{
+    margin-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.imgcont{
+    width: 90%;
+}
+
+.espacamento{
+    padding: 2%;
+}
+
+.imgcol4{
+    width: 100%;
+}
+
+.espacprogress{
+    margin-bottom: 5%;
+    height: 1.3rem;
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    width: 100%;
+    padding: 3%;
+    margin-top: 2%;
+}
